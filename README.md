@@ -1,2 +1,2 @@
 # toolset
-A toolset written by golang
+A toolset.
